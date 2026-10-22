@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files_title</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@format@</string>
+		<key>format</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>%d فایل</string>
+			<key>other</key>
+			<string>%d فایل</string>
+		</dict>
+	</dict>
+	<key>delete_multiple_items_title</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@format@</string>
+		<key>format</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string></string>
+			<key>other</key>
+			<string>آیا می‌خواهید %d مورد را حذف کنید؟</string>
+		</dict>
+	</dict>
+	<key>import_alert_title</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@format@</string>
+		<key>format</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>وارد کردن %d فایل به</string>
+			<key>other</key>
+			<string>وارد کردن %d فایل به</string>
+		</dict>
+	</dict>
+	<key>import_processing_description</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@format@</string>
+		<key>format</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>در حال پردازش ۱ فایل</string>
+			<key>other</key>
+			<string>در حال پردازش %d فایل</string>
+		</dict>
+	</dict>
+	<key>downloading_file_title</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@format@</string>
+		<key>format</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>one</key>
+			<string>در حال بارگیری ۱ فایل</string>
+			<key>other</key>
+			<string>در حال بارگیری %d فایل</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

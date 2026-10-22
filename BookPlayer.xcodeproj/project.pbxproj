@@ -1464,7 +1464,9 @@
 		5CBB29522163A17F00E3A9FF /* ZIPFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ZIPFoundation.framework; path = Carthage/Build/iOS/ZIPFoundation.framework; sourceTree = "<group>"; };
 		5F847DAE94054533AACF8D85 /* PlayBookIntent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayBookIntent.swift; sourceTree = "<group>"; };
 		620C73C7275DA00300D495AA /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = ar; path = ar.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
+		73D8DB282CC279212ADF4A03 /* fa */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = fa; path = fa.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		620C73C8275DA00400D495AA /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Localizable.strings; sourceTree = "<group>"; };
+		0F6035B17D61B43ADF5D5E5E /* fa */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fa; path = fa.lproj/Localizable.strings; sourceTree = "<group>"; };
 		623E13D0C96857091397B5EF /* IntegrationServerAddressTests.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IntegrationServerAddressTests.swift; sourceTree = "<group>"; };
 		624AB20A2724808600F6A486 /* AVAudioAssetImageDataProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVAudioAssetImageDataProvider.swift; sourceTree = "<group>"; };
 		624EB9832755D8E700D462A8 /* Audiobook Player 8.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "Audiobook Player 8.xcdatamodel"; sourceTree = "<group>"; };
@@ -1617,6 +1619,7 @@
 		63717EA92B792E350006291E /* RefreshTaskOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefreshTaskOperation.swift; sourceTree = "<group>"; };
 		6376091A2ADCD81400A01D5D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/AppShortcuts.strings; sourceTree = "<group>"; };
 		6376091C2ADCD82100A01D5D /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/AppShortcuts.strings; sourceTree = "<group>"; };
+		6DDD64CC1C1AC50A7FE9EC62 /* fa */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fa; path = fa.lproj/AppShortcuts.strings; sourceTree = "<group>"; };
 		6376091D2ADCD82100A01D5D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/AppShortcuts.strings"; sourceTree = "<group>"; };
 		6376091E2ADCD82200A01D5D /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/AppShortcuts.strings; sourceTree = "<group>"; };
 		6376091F2ADCD82400A01D5D /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/AppShortcuts.strings; sourceTree = "<group>"; };
@@ -4478,6 +4481,7 @@
 				el,
 				ja,
 				ca,
+				fa,
 			);
 			mainGroup = 418B6CEF1D2707F700F974FB;
 			packageReferences = (
@@ -5733,6 +5737,7 @@
 				41E69F4A25A7CC1100C26920 /* pl */,
 				4111FBB025EDD81C0096954F /* hu */,
 				620C73C7275DA00300D495AA /* ar */,
+				73D8DB282CC279212ADF4A03 /* fa */,
 				9F1804BF27A739D400FEDFE5 /* fi */,
 				9F2DC9CE29FEDFFF006CDF1F /* nl */,
 				9F5011F32A62027C0075FEBA /* nb */,
@@ -5782,6 +5787,7 @@
 				41E69F4B25A7CC1100C26920 /* pl */,
 				4111FBB125EDD81C0096954F /* hu */,
 				620C73C8275DA00400D495AA /* ar */,
+				0F6035B17D61B43ADF5D5E5E /* fa */,
 				9F1804C027A739D400FEDFE5 /* fi */,
 				9F2DC9CF29FEDFFF006CDF1F /* nl */,
 				9F5011F42A62027C0075FEBA /* nb */,
@@ -5798,6 +5804,7 @@
 			children = (
 				6376091A2ADCD81400A01D5D /* en */,
 				6376091C2ADCD82100A01D5D /* ar */,
+				6DDD64CC1C1AC50A7FE9EC62 /* fa */,
 				6376091D2ADCD82100A01D5D /* zh-Hans */,
 				6376091E2ADCD82200A01D5D /* cs */,
 				6376091F2ADCD82400A01D5D /* da */,
